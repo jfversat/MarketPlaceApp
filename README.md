@@ -16,7 +16,7 @@
 <li> Edit Market Place App Web.Config - connectionStrings to point your database,
    you're free to use integrated security or not, in both case you must 
    provide a user with permissions to read, select, update, delete, create, execute, etc, on the database.</li>
-<li> Run </li>
+<li> Run, by default the app starts at http://localhost:50735/ </li>
 
 <li> Clone or Download Market Place App UI</li>
 <li> Extract to desire folder</li>
